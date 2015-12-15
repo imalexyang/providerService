@@ -15,5 +15,8 @@ https://github.com/imalexyang/consumer
 主要是参考这个文章做的
 http://1358440610-qq-com.iteye.com/blog/2196235
 
+另外，Zookeeper 3.4.6  http://pan.baidu.com/s/1skkBMDR
+dubbo-admin 2.5.4 http://pan.baidu.com/s/1gdPr47x
+
 2015/12/15
 Beijing
